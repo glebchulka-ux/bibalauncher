@@ -1,0 +1,4 @@
+customtkinter>=5.2
+minecraft-launcher-lib>=7.0
+requests
+Pillow
